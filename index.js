@@ -6,7 +6,7 @@ app.get('/', (req, res) => {
   res.send('Hello Demo!')
 })
 
-app.get('/', (req, res) => {
+app.get('/C', (req, res) => {
   res.send('Hello CodeUnity!')
 })
 
